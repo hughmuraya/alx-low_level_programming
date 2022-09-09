@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/*main-The main prints a line */
+/**
+ * main-The main prints a line
+ * Return: if exited properly 0, non-zero otherwise
+ */
 
 int main(void)
 {
