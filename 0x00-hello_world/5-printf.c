@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/*main-prints a line
- * return - ends the program with 0 if correct
+/**
+ * main - prints phrase provided
+ * Return: if exited properly 0 
  */
 
 int main(void)
