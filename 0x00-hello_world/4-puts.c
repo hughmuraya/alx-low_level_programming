@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*The main prints a line */
+/*main-The main prints a line */
 
 int main(void)
 {
