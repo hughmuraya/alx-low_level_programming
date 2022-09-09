@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /*main-prints a line
- * return - ends the program with 0 if correct*/
+ * return - ends the program with 0 if correct
+ */
 
 int main(void)
 {
