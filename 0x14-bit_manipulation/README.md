@@ -1,0 +1,8 @@
+The folder contains the following file exercises for bit manipulation in C
+0. 0
+1. 1
+2. 10
+3. 11
+4. 100
+5. 101
+
